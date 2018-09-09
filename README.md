@@ -1,0 +1,2 @@
+# MachineLearning-ShoolihatuHaiybatilAzkak
+LinearRegression
